@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72262767610",
+    "project_id": "eviewer-debd5",
+    "storage_bucket": "eviewer-debd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72262767610:android:f671d4c5d91560df924a43",
+        "android_client_info": {
+          "package_name": "com.example.flutter.testdrive.proba1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgid30T1Ykz32Bot0j36Cegmv9qtDGGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
